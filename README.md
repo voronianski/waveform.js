@@ -18,7 +18,8 @@ bower install waveformjs --save
 
 ## Usage
 
-Documentation - http://waveformjs.org/#usage and examples - http://waveformjs.org/#examples.
+- Documentation - http://waveformjs.org/#usage 
+- Examples - http://waveformjs.org/#examples.
 
 ---
 MIT License
