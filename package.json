@@ -1,0 +1,19 @@
+{
+  "name": "waveform.js",
+  "version": "1.0.0",
+  "description": "Waveform.js makes drawing SoundCloud waveforms simple and lets you style and color them the way you want it.",
+  "main": "waveform-umd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "soundcloud",
+    "waveform",
+    "javascript",
+    "wrapper",
+    "umd",
+    "browser"
+  ],
+  "author": "Dmitri Voronianski <dmitri.voronianski@gmail.com>",
+  "license": "MIT"
+}
