@@ -7,13 +7,13 @@
 ## Install
 
 ```bash
-npm install waveformjs --save
+npm install waveform.js --save
 ```
 
 or
 
 ```bash
-bower install waveformjs --save
+bower install waveform.js --save
 ```
 
 ## Usage
